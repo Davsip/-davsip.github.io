@@ -1,0 +1,25 @@
+body {
+    background:grey;
+}
+
+
+.side-bar {
+    background: whitesmoke;
+}
+
+
+
+
+
+.footer{
+    padding:3px;
+    margin-top:10%;
+    color:#ffffff;
+    background-color:#4b4645;
+    text-align: center;
+    width: 100%;
+    margin-bottom: auto;
+    height: 70px;
+    font-size: 20px;
+   
+}
