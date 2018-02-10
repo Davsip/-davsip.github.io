@@ -1,0 +1,108 @@
+
+/*------body************--------*/
+
+body {
+
+    background: lightgray;
+}
+
+/* header 1  */
+
+.sm-background {
+    background:#4aaaa5;
+    width: 11%;
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    padding: 10px;  
+    margin-left: 30px;
+    font-size: 25px;
+    padding-top: 2px;
+    
+     
+}
+
+header {
+
+    padding:10px;
+    background:white;
+    color:#ffffff;
+    width: 100%;
+   height: 50px;
+ 
+  }
+
+/* testing */
+
+
+/* .btn-group  {
+    border: none;
+    color: gray;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    float: right;
+   
+} */
+
+
+
+
+
+/*main ------article*/
+
+
+img {
+    float: left;
+    margin-right: 15px;
+}
+
+.main-box
+     {
+        position: relative;
+        top: 50px;
+        left: 20px;
+        background: whitesmoke;
+        width: 650px; 
+        padding: 10px;
+     }
+
+
+ aside { 
+
+    width: 270px;
+    background-color: white;
+    padding: 20px;
+    float: right;
+    image-orientation: center;
+    text-align: center;
+    margin-right: 300px;
+    margin-left: 120px;
+    margin-top: -325px;
+ 
+ }
+
+
+
+
+
+.footer{
+    padding:3px;
+    margin-top:10%;
+    color:#ffffff;
+    background-color:#4b4645;
+    text-align: center;
+    width: 100%;
+    margin-bottom: auto;
+    height: 70px;
+   
+}
+
+
+/* Contact page  */
+
+.contact {
+font-family: 'Times New Roman', Times, serif;
+color: #4aaaa5;
+}

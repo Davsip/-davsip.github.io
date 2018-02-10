@@ -1,0 +1,7 @@
+.bgimage {
+    background-image: url("/Users/davidsipala/Desktop/Code/images/large images/img-02.jpg");
+    background-size: cover;
+    height: 200px;
+    background: red;
+    font-size: 700px;
+}
