@@ -1,0 +1,49 @@
+
+h1 {
+    text-align: center;
+}
+<style>
+ 
+   p.alert2{ color: red; 
+ } 
+    p.alert3{ color: blue; 
+ }
+     p.alert4{ color: green; 
+ }
+       p.alert5{
+    font-size: 50px;
+ }
+
+ p.alert6{
+    font-size: 10px;
+ }
+
+     p.alert7{
+    text-align: center;
+ }
+
+       p.alert8{
+    font-weight: bold;
+ }
+        p.alert9{
+    font-style: oblique;
+ }
+p.alert10{font-size: 20px;
+}
+p.alert10{font-weight: bold;
+}
+p.alert10{color: orange;
+}
+
+p.alert11{color: green;
+}
+p.alert12{color: green;
+}
+p.alert13{color: green;
+}
+p.alert14{color: green;
+}
+p.alert15{color: green;
+}
+p.alert16{color: green;
+}
