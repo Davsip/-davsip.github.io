@@ -1,0 +1,18 @@
+body {
+background: limegreen;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: whitesmoke;
+    font-size: 140px;
+}
+
+/* .jumbotron {
+color: lime;
+font-size: 150px;
+text-align: center;
+background url()
+} */

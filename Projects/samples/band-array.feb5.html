@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>Array Activity - Unsolved</title>
+  </head>
+  <body>
+
+ 
+
+    <script>
+// creat an array named myFavsBands
+        var myFavsBands = [ "Pearl Jam", "U2", "The Killers", "Coldplays", "Soda Stereo"];
+// create a prompt to ask user's favorite's band 
+        var whatIsYourBand = prompt(" Whats is your favorite band?");
+//convert the user's answer to lowercase.
+var userGuessLower = whatIsYourBand.toLocaleLowerCase();
+
+// check on myfavsbands array is it contains user's answer//
+//if the user's band it's not on the arraym ....
+
+
+if (myFavsBands.indexOf(userGuessLower) === -1) {
+    alert("Nah! thats pretty lame...");
+}
+ // if it is in the array ...
+ else {
+     alert("OMG! I love them too");
+ }
+
+
+
+    </script>
+
+  </body>
+</html>
+ 

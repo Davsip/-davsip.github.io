@@ -1,0 +1,33 @@
+body {
+
+background: #DFE0E2;
+}
+
+.jumbotron {
+background: whitesmoke;
+text-align: center;
+height: 100%;
+font-size: 40px;
+padding-top: 10px;
+padding-left: 40px;
+
+}
+
+#topImageL {
+	width: 10%;
+	float: left;
+    padding-left: 40px;
+    padding-top: 25px;
+}
+
+h2 
+{
+    font-size: 40px;
+    text-align: center;
+    color: #AFD46B;
+   font-weight: 700;
+}
+
+.second-text {
+    font-size: 25px;
+}

@@ -1,0 +1,14 @@
+body {
+
+    background: lightslategray;
+}
+.main-header {
+    text-align: center;
+
+   background: url("/Users/davlio/Desktop/Code/Practicing/Jq-beg/assets /images/header-bckg.jpg");
+
+}
+
+.our-first-list {
+ text-align: center;
+}
