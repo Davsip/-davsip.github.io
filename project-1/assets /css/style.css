@@ -2,7 +2,7 @@ body {
 
 background: #DFE0E2;
 }
-
+/* main header */
 .jumbotron {
 background: whitesmoke;
 text-align: center;
@@ -10,14 +10,17 @@ height: 100%;
 font-size: 40px;
 padding-top: 10px;
 padding-left: 40px;
+color: #AFD46B;
+background-image: url("./assets /images /background-header.jpg")
 
 }
-
+/* header image */
 #topImageL {
-	width: 10%;
+	width: 150px;
 	float: left;
-    padding-left: 40px;
-    padding-top: 25px;
+    padding-left: 70px;
+    padding-top: 15px;
+    padding-bottom: 50px;
 }
 
 h2 
@@ -28,6 +31,48 @@ h2
    font-weight: 700;
 }
 
-.second-text {
-    font-size: 25px;
+
+/* search box  */
+
+body {
+    font-family: Arial;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+form.example input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 40%;
+    background: #f1f1f1;
+}
+
+form.example button {
+    float: left;
+    width: 20%;
+    padding: 10px;
+    background: #2196F3;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none;
+    cursor: pointer;
+}
+
+form.example button:hover {
+    background: #0b7dda;
+}
+
+form.example::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.first-article {
+    background: red;
 }
